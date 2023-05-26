@@ -1,0 +1,10 @@
+* url-rewrite
+
+Rewrite (X)HTML attributes with Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/edicl/url-rewrite.git |
+| commit  | dc4a3ef                                      |
+| systems | url-rewrite                                  |
+|---------+----------------------------------------------|
+
